@@ -30,7 +30,5 @@ A weather application built using HTML, CSS, and JavaScript. It provides real-ti
 - [Weather API](https://www.weatherapi.com/)  
 ## Credits
 
-- 
-- Inspiration and guidance for this project came from [Tutorial/Resource Name](https://www.thecodehelp.in/) - Replace with any tutorials or resources that helped you in building the app.
-
  
+- Inspiration and guidance for this project came from  https://www.thecodehelp.in/
